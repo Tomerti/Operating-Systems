@@ -44,6 +44,6 @@
   <h2 align="left" style="border-bottom: 1px solid gray">License</h2>
 
   <p align="left">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Licensed under Creative Common Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
+    <a href="https://choosealicense.com/licenses/mit/">Licensed under MIT</a>
   </p>
 </div>
